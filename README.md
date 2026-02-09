@@ -1,2 +1,4 @@
-# estudos-java
-Estudos Java
+# Estudos em Java
+
+Repositório criado para estudos de programação em Java,
+exercícios da FATEC e prática de lógica.
